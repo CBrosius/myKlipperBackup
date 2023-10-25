@@ -6591,3 +6591,71 @@ Repo Warnings:
 2023-10-25 21:14:11,357 [authorization.py:_check_trusted_connection()] - Trusted Connection Detected, IP: 192.168.62.209
 2023-10-25 21:14:11,358 [app.py:log_request()] - 101 GET /websocket (192.168.62.209) [_TRUSTED_USER_] 1.44ms
 2023-10-25 21:14:11,359 [websockets.py:open()] - Websocket Opened: ID: 3910406960, Proxied: False, User Agent: HomeAssistant/2023.10.5 aiohttp/3.8.5 Python/3.11, Host Name: 192.168.60.221
+2023-10-25 21:39:47,030 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:39:47,047 [app.py:post()] - Processing Uploaded File: printer.cfg
+2023-10-25 21:39:47,058 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 28.46ms
+2023-10-25 21:39:50,667 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:39:50,683 [app.py:post()] - Processing Uploaded File: printer.cfg
+2023-10-25 21:39:50,695 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 28.45ms
+2023-10-25 21:39:52,856 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:39:52,873 [app.py:post()] - Processing Uploaded File: printer.cfg
+2023-10-25 21:39:52,885 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 29.34ms
+2023-10-25 21:39:54,275 [klippy_connection.py:_on_connection_closed()] - Klippy Connection Removed
+2023-10-25 21:39:54,288 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:39:55,535 [klippy_connection.py:_do_connect()] - Klippy Connection Established
+2023-10-25 21:39:56,298 [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
+2023-10-25 21:39:56,299 [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed
+2023-10-25 21:39:56,300 [klippy_connection.py:_check_ready()] - 
+Section 'gcode_shell_command update_git_script' is not a valid config section
+
+Once the underlying issue is corrected, use the "RESTART"
+command to reload the config and restart the host software.
+Printer is halted
+
+2023-10-25 21:41:13,063 [klippy_connection.py:_on_connection_closed()] - Klippy Connection Removed
+2023-10-25 21:41:13,068 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:14,716 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:14,737 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:16,719 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:16,739 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:18,722 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:18,735 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:41:19,340 [klippy_connection.py:_do_connect()] - Klippy Connection Established
+2023-10-25 21:41:20,340 [server.py:add_log_rollover_item()] - Klipper Version: v0.11.0-304-gf7567a0d-dirty
+2023-10-25 21:41:21,617 [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
+2023-10-25 21:41:21,618 [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed
+2023-10-25 21:41:21,868 [job_state.py:_handle_started()] - Job state initialized: standby
+2023-10-25 21:41:22,126 [klippy_connection.py:_check_ready()] - Klippy ready
+2023-10-25 21:41:22,620 [data_store.py:_init_sensors()] - Configuring available sensors: ['heater_bed', 'extruder']
+2023-10-25 21:41:48,439 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:41:48,459 [app.py:post()] - Processing Uploaded File: shell_command.cfg
+2023-10-25 21:41:48,471 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 32.28ms
+2023-10-25 21:42:01,496 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:42:01,509 [app.py:post()] - Processing Uploaded File: printer.cfg
+2023-10-25 21:42:01,518 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 23.18ms
+2023-10-25 21:42:03,420 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:42:03,436 [app.py:post()] - Processing Uploaded File: printer.cfg
+2023-10-25 21:42:03,446 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 27.07ms
+2023-10-25 21:42:04,833 [klippy_connection.py:_on_connection_closed()] - Klippy Connection Removed
+2023-10-25 21:42:04,844 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:42:06,090 [klippy_connection.py:_do_connect()] - Klippy Connection Established
+2023-10-25 21:42:08,622 [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
+2023-10-25 21:42:08,624 [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed
+2023-10-25 21:42:08,873 [job_state.py:_handle_started()] - Job state initialized: standby
+2023-10-25 21:42:09,130 [klippy_connection.py:_check_ready()] - Klippy ready
+2023-10-25 21:42:09,625 [data_store.py:_init_sensors()] - Configuring available sensors: ['heater_bed', 'extruder']
+2023-10-25 21:42:38,830 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:42:38,848 [app.py:post()] - Processing Uploaded File: shell_command.cfg
+2023-10-25 21:42:38,859 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 29.53ms
+2023-10-25 21:42:40,531 [app.py:prepare()] - Upload Request Received from 192.168.60.90
+2023-10-25 21:42:40,544 [app.py:post()] - Processing Uploaded File: shell_command.cfg
+2023-10-25 21:42:40,553 [app.py:log_request()] - 201 POST /server/files/upload (192.168.60.90) [_TRUSTED_USER_] 23.56ms
+2023-10-25 21:42:41,948 [klippy_connection.py:_on_connection_closed()] - Klippy Connection Removed
+2023-10-25 21:42:41,952 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.objects.query, Code: 503, Message: Klippy Disconnected
+2023-10-25 21:42:41,962 [common.py:build_error()] - JSON-RPC Request Error - Requested Method: printer.info, Code: 503, Message: Klippy Host not connected
+2023-10-25 21:42:43,208 [klippy_connection.py:_do_connect()] - Klippy Connection Established
+2023-10-25 21:42:45,959 [klippy_connection.py:_request_initial_subscriptions()] - Webhooks Subscribed
+2023-10-25 21:42:45,961 [klippy_connection.py:_request_initial_subscriptions()] - GCode Output Subscribed
+2023-10-25 21:42:46,210 [job_state.py:_handle_started()] - Job state initialized: standby
+2023-10-25 21:42:46,469 [klippy_connection.py:_check_ready()] - Klippy ready
+2023-10-25 21:42:46,963 [data_store.py:_init_sensors()] - Configuring available sensors: ['heater_bed', 'extruder']
