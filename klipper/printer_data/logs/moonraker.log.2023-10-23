@@ -1,0 +1,224 @@
+-------------------- Log Start | Sun Oct 22 22:07:47 2023 --------------------
+data_path: /home/christian/printer_data
+is_default_data_path: False
+config_file: /home/christian/printer_data/config/moonraker.conf
+startup_warnings: []
+verbose: False
+debug: False
+asyncio_debug: False
+is_backup_config: False
+is_python_package: False
+instance_uuid: 4b51536d89fe42cd86b29ca48f9708c8
+unix_socket_path: /home/christian/printer_data/comms/moonraker.sock
+software_version: v0.8.0-186-g2641fc5
+git_branch: master
+git_remote: origin
+git_repo_url: https://github.com/Arksine/moonraker.git
+modified_files: []
+unofficial_components: []
+log_file: /home/christian/printer_data/logs/moonraker.log
+python_version: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
+msgspec_enabled: False
+uvloop_enabled: False
+
+#################### Moonraker Configuration ####################
+
+[server]
+host = 0.0.0.0
+port = 7125
+klippy_uds_address = /home/christian/printer_data/comms/klippy.sock
+
+[authorization]
+trusted_clients = 
+	10.0.0.0/8
+	127.0.0.0/8
+	169.254.0.0/16
+	172.16.0.0/12
+	192.168.0.0/16
+	FE80::/10
+	::1/128
+cors_domains = 
+	*.lan
+	*.local
+	*://localhost
+	*://localhost:*
+	*://my.mainsail.xyz
+	*://app.fluidd.xyz
+
+[octoprint_compat]
+
+[history]
+
+[update_manager]
+channel = dev
+refresh_interval = 168
+
+[update_manager fluidd-config]
+type = git_repo
+primary_branch = master
+path = ~/fluidd-config
+origin = https://github.com/fluidd-core/fluidd-config.git
+managed_services = klipper
+
+[update_manager fluidd]
+type = web
+channel = stable
+repo = fluidd-core/fluidd
+path = ~/fluidd
+
+[update_manager mobileraker]
+type = git_repo
+path = /home/christian/mobileraker_companion
+origin = https://github.com/Clon1998/mobileraker_companion.git
+primary_branch = main
+managed_services = mobileraker
+env = /home/christian/mobileraker-env/bin/python
+requirements = scripts/mobileraker-requirements.txt
+install_script = scripts/install-mobileraker-companion.sh
+
+[file_manager]
+enable_object_processing = True
+
+[update_manager Klipper-Adaptive-Meshing-Purging]
+type = git_repo
+channel = dev
+path = ~/Klipper-Adaptive-Meshing-Purging
+origin = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+managed_services = klipper
+primary_branch = main
+
+#################################################################
+All Configuration Files:
+/home/christian/printer_data/config/moonraker.conf
+#################################################################
+Unsafe Shutdown Count: 1
+
+System Info:
+
+***python***
+  version: (3, 11, 2, 'final', 0)
+  version_string: 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0]
+
+***cpu_info***
+  cpu_count: 4
+  bits: 32bit
+  processor: aarch64
+  cpu_desc: 
+  serial_number: 10000000fa214519
+  hardware_desc: BCM2835
+  model: Raspberry Pi 4 Model B Rev 1.1
+  total_memory: 3883212
+  memory_units: kB
+
+***sd_info***
+
+***distribution***
+  name: Raspbian GNU/Linux 12 (bookworm)
+  id: raspbian
+  version: 12
+  version_parts: {'major': '12', 'minor': '', 'build_number': ''}
+  like: debian
+  codename: bookworm
+  release_info: {}
+
+***virtualization***
+  virt_type: none
+  virt_identifier: none
+
+***network***
+
+***canbus***
+
+***Allowed Services***
+  klipper_mcu
+  webcamd
+  MoonCord
+  KlipperScreen
+  moonraker-telegram-bot
+  moonraker-obico
+  sonar
+  crowsnest
+  octoeverywhere
+  ratos-configurator
+  mobileraker
+
+Systemd unit moonraker.service:
+unit_name: moonraker.service
+is_default: True
+manager: systemd
+Properties:
+**Requires=['system.slice', 'network-online.target', '-.mount', 'sysinit.target']
+**After=['sysinit.target', 'basic.target', 'system.slice', 'systemd-journald.socket', 'network-online.target', '-.mount']
+**SupplementaryGroups=['moonraker-admin']
+**EnvironmentFiles=/home/christian/printer_data/systemd/moonraker.env
+**ExecStart=/home/christian/moonraker-env/bin/python $MOONRAKER_ARGS
+**WorkingDirectory=/home/christian/moonraker
+**FragmentPath=/etc/systemd/system/moonraker.service
+**Description=API Server for Klipper SV1
+**User=christian
+
+Systemd unit klipper.service:
+unit_name: klipper.service
+is_default: True
+manager: systemd
+Properties:
+**Requires=['-.mount', 'sysinit.target', 'system.slice']
+**After=['sysinit.target', 'system.slice', 'systemd-journald.socket', 'basic.target', 'network-online.target', '-.mount']
+**SupplementaryGroups=[]
+**EnvironmentFiles=/home/christian/printer_data/systemd/klipper.env
+**ExecStart=/home/christian/klippy-env/bin/python $KLIPPER_ARGS
+**WorkingDirectory=/home/christian/klipper
+**FragmentPath=/etc/systemd/system/klipper.service
+**Description=Klipper 3D Printer Firmware SV1
+**User=christian
+Git Repo moonraker: No warnings detected
+Git Repo klipper: No warnings detected
+Git Repo fluidd-config: No warnings detected
+Git Repo mobileraker: No warnings detected
+Git Repo Klipper-Adaptive-Meshing-Purging: No warnings detected
+Klipper Version: v0.11.0-304-gf7567a0d
+2023-10-23 00:07:47,624 [websockets.py:on_close()] - Websocket Closed: ID: 3909760336 Close Code: 1001, Close Reason: None, Pong Time Elapsed: 6.62
+2023-10-23 00:08:10,026 [authorization.py:_prune_conn_handler()] - Trusted Connection Expired, IP: 192.168.60.90
+2023-10-23 00:08:20,701 [klippy_connection.py:_process_status_update()] - Klippy has shutdown
+2023-10-23 00:08:20,705 [proc_stats.py:_handle_shutdown()] - 
+Moonraker System Usage Statistics:
+System Time: 1698012471.519055, Usage: 1.49%, Memory: 34084 kB
+System Time: 1698012472.519943, Usage: 1.36%, Memory: 34084 kB
+System Time: 1698012473.521881, Usage: 1.36%, Memory: 34084 kB
+System Time: 1698012474.522211, Usage: 1.53%, Memory: 34084 kB
+System Time: 1698012475.523105, Usage: 1.53%, Memory: 34084 kB
+System Time: 1698012476.524142, Usage: 2.08%, Memory: 34084 kB
+System Time: 1698012477.525715, Usage: 1.45%, Memory: 34084 kB
+System Time: 1698012478.527364, Usage: 1.45%, Memory: 34084 kB
+System Time: 1698012479.527909, Usage: 1.54%, Memory: 34084 kB
+System Time: 1698012480.528937, Usage: 1.43%, Memory: 34084 kB
+System Time: 1698012481.529968, Usage: 1.45%, Memory: 34084 kB
+System Time: 1698012482.531560, Usage: 1.42%, Memory: 34084 kB
+System Time: 1698012483.532247, Usage: 1.5%, Memory: 34084 kB
+System Time: 1698012484.533723, Usage: 1.67%, Memory: 34084 kB
+System Time: 1698012485.534242, Usage: 1.51%, Memory: 34084 kB
+System Time: 1698012486.536344, Usage: 2.09%, Memory: 34084 kB
+System Time: 1698012487.538690, Usage: 1.39%, Memory: 34084 kB
+System Time: 1698012488.538670, Usage: 1.43%, Memory: 34084 kB
+System Time: 1698012489.539836, Usage: 1.35%, Memory: 34084 kB
+System Time: 1698012490.540727, Usage: 1.44%, Memory: 34084 kB
+System Time: 1698012491.541356, Usage: 1.38%, Memory: 34084 kB
+System Time: 1698012492.542711, Usage: 1.39%, Memory: 34084 kB
+System Time: 1698012493.543458, Usage: 1.45%, Memory: 34084 kB
+System Time: 1698012494.544151, Usage: 1.63%, Memory: 34084 kB
+System Time: 1698012495.543603, Usage: 1.59%, Memory: 34088 kB
+System Time: 1698012496.545540, Usage: 1.16%, Memory: 34088 kB
+System Time: 1698012497.547563, Usage: 0.75%, Memory: 34088 kB
+System Time: 1698012498.548563, Usage: 0.73%, Memory: 34088 kB
+System Time: 1698012499.549596, Usage: 0.75%, Memory: 34088 kB
+System Time: 1698012500.553461, Usage: 0.74%, Memory: 34088 kB
+CPU Temperature: 51.121
+2023-10-23 00:08:20,707 [proc_stats.py:_handle_shutdown()] - Throttled Flags: 
+2023-10-23 09:25:44,498 [authorization.py:_check_trusted_connection()] - Trusted Connection Detected, IP: 192.168.60.90
+2023-10-23 09:25:45,362 [app.py:log_request()] - 101 GET /websocket?token=XDSCKONTTJZV6KMZRGTSYXQGJQSZBC4Q (192.168.60.90) [_TRUSTED_USER_] 2.57ms
+2023-10-23 09:25:45,363 [websockets.py:open()] - Websocket Opened: ID: 3910224112, Proxied: True, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61, Host Name: 192.168.60.221
+2023-10-23 09:25:45,423 [websockets.py:_handle_identify()] - Websocket 3910224112 Client Identified - Name: fluidd, Version: 1.26.1-62acc09, Type: web
+2023-10-23 09:25:45,424 [file_manager.py:get_file_list()] - Updating File List <config>...
+2023-10-23 10:28:10,143 [authorization.py:_prune_conn_handler()] - Trusted Connection Expired, IP: 192.168.60.90
+2023-10-23 10:28:45,889 [websockets.py:write_to_socket()] - Websocket closed while writing: 3910224112
+2023-10-23 10:28:50,368 [websockets.py:on_close()] - Websocket Closed: ID: 3910224112 Close Code: None, Close Reason: None, Pong Time Elapsed: 45.00

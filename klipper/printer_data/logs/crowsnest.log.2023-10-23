@@ -1,0 +1,1957 @@
+[10/15/23 23:51:41] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/15/23 23:51:42] crowsnest: Version: v4.0.4-6-g767c53a
+[10/15/23 23:51:42] crowsnest: Prepare Startup ...
+[10/15/23 23:51:42] crowsnest: INFO: Host information:
+[10/15/23 23:51:42] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/15/23 23:51:42] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/15/23 23:51:42] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/15/23 23:51:44] crowsnest: Host Info: Available CPU Cores: 4
+[10/15/23 23:51:44] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/15/23 23:51:44] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/15/23 23:51:44] crowsnest: INFO: Checking Dependencies
+[10/15/23 23:51:44] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/15/23 23:51:44] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/15/23 23:51:44] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/15/23 23:51:44] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/15/23 23:51:44] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/15/23 23:51:50] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/15/23 23:51:50] crowsnest: Version: v4.0.4-6-g767c53a
+[10/15/23 23:51:50] crowsnest: Prepare Startup ...
+[10/15/23 23:51:50] crowsnest: INFO: Host information:
+[10/15/23 23:51:50] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/15/23 23:51:50] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/15/23 23:51:50] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/15/23 23:51:50] crowsnest: Host Info: Available CPU Cores: 4
+[10/15/23 23:51:50] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/15/23 23:51:50] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/15/23 23:51:50] crowsnest: INFO: Checking Dependencies
+[10/15/23 23:51:50] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/15/23 23:51:50] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/15/23 23:51:50] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/15/23 23:51:50] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/15/23 23:51:50] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/15/23 23:51:56] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/15/23 23:51:56] crowsnest: Version: v4.0.4-6-g767c53a
+[10/15/23 23:51:56] crowsnest: Prepare Startup ...
+[10/15/23 23:51:56] crowsnest: INFO: Host information:
+[10/15/23 23:51:56] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/15/23 23:51:56] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/15/23 23:51:56] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/15/23 23:51:56] crowsnest: Host Info: Available CPU Cores: 4
+[10/15/23 23:51:56] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/15/23 23:51:56] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/15/23 23:51:56] crowsnest: INFO: Checking Dependencies
+[10/15/23 23:51:56] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/15/23 23:51:56] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/15/23 23:51:56] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/15/23 23:51:56] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/15/23 23:51:56] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/15/23 23:52:02] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/15/23 23:52:02] crowsnest: Version: v4.0.4-6-g767c53a
+[10/15/23 23:52:02] crowsnest: Prepare Startup ...
+[10/15/23 23:52:02] crowsnest: INFO: Host information:
+[10/15/23 23:52:02] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/15/23 23:52:02] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/15/23 23:52:02] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/15/23 23:52:02] crowsnest: Host Info: Available CPU Cores: 4
+[10/15/23 23:52:02] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/15/23 23:52:02] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/15/23 23:52:02] crowsnest: INFO: Checking Dependencies
+[10/15/23 23:52:02] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/15/23 23:52:02] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/15/23 23:52:02] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/15/23 23:52:02] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/15/23 23:52:02] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:29:42] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:29:42] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:29:42] crowsnest: Prepare Startup ...
+[10/16/23 08:29:42] crowsnest: INFO: Host information:
+[10/16/23 08:29:42] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:29:42] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:29:42] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:29:42] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:29:42] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:29:42] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:29:42] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:29:42] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:29:42] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:29:42] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:29:42] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:29:42] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:29:48] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:29:48] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:29:48] crowsnest: Prepare Startup ...
+[10/16/23 08:29:48] crowsnest: INFO: Host information:
+[10/16/23 08:29:48] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:29:48] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:29:48] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:29:48] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:29:48] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:29:48] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:29:48] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:29:48] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:29:48] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:29:48] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:29:48] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:29:48] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:29:53] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:29:53] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:29:53] crowsnest: Prepare Startup ...
+[10/16/23 08:29:53] crowsnest: INFO: Host information:
+[10/16/23 08:29:53] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:29:53] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:29:53] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:29:53] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:29:54] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:29:54] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:29:54] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:29:54] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:29:54] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:29:54] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:29:54] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:29:54] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:29:59] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:29:59] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:29:59] crowsnest: Prepare Startup ...
+[10/16/23 08:29:59] crowsnest: INFO: Host information:
+[10/16/23 08:29:59] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:29:59] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:29:59] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:29:59] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:29:59] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:29:59] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:29:59] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:29:59] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:29:59] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:29:59] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:29:59] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:29:59] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:30:05] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:30:05] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:30:05] crowsnest: Prepare Startup ...
+[10/16/23 08:30:05] crowsnest: INFO: Host information:
+[10/16/23 08:30:05] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:30:05] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:30:05] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:30:05] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:30:05] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:30:05] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:30:05] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:30:05] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:30:05] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:30:05] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:30:05] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:30:05] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 08:30:11] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 08:30:11] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 08:30:11] crowsnest: Prepare Startup ...
+[10/16/23 08:30:11] crowsnest: INFO: Host information:
+[10/16/23 08:30:11] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 08:30:11] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 08:30:11] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 08:30:11] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 08:30:11] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/16/23 08:30:11] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 08:30:11] crowsnest: INFO: Checking Dependencies
+[10/16/23 08:30:11] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 08:30:11] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 08:30:11] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 08:30:11] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 08:30:11] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:54:28] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:54:28] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:54:28] crowsnest: Prepare Startup ...
+[10/16/23 09:54:28] crowsnest: INFO: Host information:
+[10/16/23 09:54:28] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:54:29] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:54:29] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:54:30] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:54:30] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:54:30] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:54:30] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:54:32] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:54:32] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:54:32] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:54:32] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:54:32] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:54:37] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:54:37] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:54:37] crowsnest: Prepare Startup ...
+[10/16/23 09:54:38] crowsnest: INFO: Host information:
+[10/16/23 09:54:38] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:54:38] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:54:38] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:54:38] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:54:38] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:54:38] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:54:38] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:54:38] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:54:38] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:54:38] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:54:38] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:54:38] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:54:43] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:54:43] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:54:43] crowsnest: Prepare Startup ...
+[10/16/23 09:54:44] crowsnest: INFO: Host information:
+[10/16/23 09:54:44] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:54:44] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:54:44] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:54:44] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:54:44] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:54:44] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:54:44] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:54:44] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:54:44] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:54:44] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:54:44] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:54:44] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:54:49] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:54:49] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:54:49] crowsnest: Prepare Startup ...
+[10/16/23 09:54:49] crowsnest: INFO: Host information:
+[10/16/23 09:54:49] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:54:49] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:54:49] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:54:49] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:54:49] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:54:49] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:54:49] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:54:49] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:54:49] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:54:49] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:54:49] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:54:49] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:16] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:16] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:16] crowsnest: Prepare Startup ...
+[10/16/23 09:55:16] crowsnest: INFO: Host information:
+[10/16/23 09:55:16] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:16] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:16] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:16] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:16] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:16] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:16] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:16] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:17] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:17] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:17] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:17] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:22] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:22] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:22] crowsnest: Prepare Startup ...
+[10/16/23 09:55:22] crowsnest: INFO: Host information:
+[10/16/23 09:55:22] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:22] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:22] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:22] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:22] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:22] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:22] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:22] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:22] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:22] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:22] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:22] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:28] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:28] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:28] crowsnest: Prepare Startup ...
+[10/16/23 09:55:28] crowsnest: INFO: Host information:
+[10/16/23 09:55:28] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:28] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:28] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:28] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:28] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:28] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:28] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:28] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:28] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:28] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:28] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:28] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:34] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:34] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:34] crowsnest: Prepare Startup ...
+[10/16/23 09:55:34] crowsnest: INFO: Host information:
+[10/16/23 09:55:34] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:34] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:34] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:34] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:34] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:34] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:34] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:34] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:34] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:34] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:34] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:34] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:40] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:40] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:40] crowsnest: Prepare Startup ...
+[10/16/23 09:55:40] crowsnest: INFO: Host information:
+[10/16/23 09:55:40] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:40] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:40] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:40] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:40] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:40] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:40] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:40] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:40] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:40] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:40] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:40] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/16/23 09:55:45] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/16/23 09:55:45] crowsnest: Version: v4.0.4-6-g767c53a
+[10/16/23 09:55:45] crowsnest: Prepare Startup ...
+[10/16/23 09:55:45] crowsnest: INFO: Host information:
+[10/16/23 09:55:45] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/16/23 09:55:45] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/16/23 09:55:45] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/16/23 09:55:45] crowsnest: Host Info: Available CPU Cores: 4
+[10/16/23 09:55:45] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/16/23 09:55:45] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/16/23 09:55:45] crowsnest: INFO: Checking Dependencies
+[10/16/23 09:55:46] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/16/23 09:55:46] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/16/23 09:55:46] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/16/23 09:55:46] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/16/23 09:55:46] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:26:34] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:26:35] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:26:35] crowsnest: Prepare Startup ...
+[10/18/23 13:26:35] crowsnest: INFO: Host information:
+[10/18/23 13:26:35] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:26:35] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:26:35] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:26:36] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:26:36] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:26:36] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:26:36] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:26:38] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:26:38] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:26:38] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:26:38] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:26:38] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:26:44] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:26:44] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:26:44] crowsnest: Prepare Startup ...
+[10/18/23 13:26:44] crowsnest: INFO: Host information:
+[10/18/23 13:26:44] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:26:44] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:26:44] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:26:44] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:26:44] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:26:44] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:26:44] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:26:44] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:26:44] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:26:44] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:26:44] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:26:44] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:26:50] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:26:50] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:26:50] crowsnest: Prepare Startup ...
+[10/18/23 13:26:50] crowsnest: INFO: Host information:
+[10/18/23 13:26:50] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:26:50] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:26:50] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:26:50] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:26:50] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:26:50] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:26:50] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:26:50] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:26:50] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:26:50] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:26:50] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:26:50] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:26:56] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:26:56] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:26:56] crowsnest: Prepare Startup ...
+[10/18/23 13:26:56] crowsnest: INFO: Host information:
+[10/18/23 13:26:56] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:26:56] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:26:56] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:26:56] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:26:56] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:26:56] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:26:56] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:26:56] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:26:56] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:26:56] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:26:56] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:26:56] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:01] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:02] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:02] crowsnest: Prepare Startup ...
+[10/18/23 13:27:02] crowsnest: INFO: Host information:
+[10/18/23 13:27:02] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:02] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:02] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:02] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:02] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:02] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:02] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:02] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:02] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:02] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:02] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:02] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:07] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:07] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:07] crowsnest: Prepare Startup ...
+[10/18/23 13:27:07] crowsnest: INFO: Host information:
+[10/18/23 13:27:07] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:07] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:07] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:07] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:07] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:07] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:07] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:07] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:07] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:07] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:07] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:07] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:13] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:13] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:13] crowsnest: Prepare Startup ...
+[10/18/23 13:27:13] crowsnest: INFO: Host information:
+[10/18/23 13:27:13] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:13] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:13] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:13] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:13] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:13] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:13] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:13] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:13] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:13] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:13] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:13] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:19] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:19] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:19] crowsnest: Prepare Startup ...
+[10/18/23 13:27:19] crowsnest: INFO: Host information:
+[10/18/23 13:27:19] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:19] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:19] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:19] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:19] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:19] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:19] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:19] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:19] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:19] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:19] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:19] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:24] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:24] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:24] crowsnest: Prepare Startup ...
+[10/18/23 13:27:25] crowsnest: INFO: Host information:
+[10/18/23 13:27:25] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:25] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:25] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:25] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:25] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:25] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:25] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:25] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:25] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:25] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:25] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:25] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/18/23 13:27:30] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/18/23 13:27:30] crowsnest: Version: v4.0.4-6-g767c53a
+[10/18/23 13:27:30] crowsnest: Prepare Startup ...
+[10/18/23 13:27:30] crowsnest: INFO: Host information:
+[10/18/23 13:27:30] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/18/23 13:27:30] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/18/23 13:27:30] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/18/23 13:27:30] crowsnest: Host Info: Available CPU Cores: 4
+[10/18/23 13:27:30] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/18/23 13:27:30] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/18/23 13:27:30] crowsnest: INFO: Checking Dependencies
+[10/18/23 13:27:30] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/18/23 13:27:30] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/18/23 13:27:30] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/18/23 13:27:30] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/18/23 13:27:30] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:03] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:04] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:04] crowsnest: Prepare Startup ...
+[10/20/23 10:51:04] crowsnest: INFO: Host information:
+[10/20/23 10:51:04] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:04] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:04] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:06] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:06] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:06] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:06] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:06] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:06] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:07] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:07] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:07] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:12] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:12] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:12] crowsnest: Prepare Startup ...
+[10/20/23 10:51:12] crowsnest: INFO: Host information:
+[10/20/23 10:51:12] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:12] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:12] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:12] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:12] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:12] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:12] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:12] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:12] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:12] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:12] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:12] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:18] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:18] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:18] crowsnest: Prepare Startup ...
+[10/20/23 10:51:18] crowsnest: INFO: Host information:
+[10/20/23 10:51:18] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:18] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:18] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:18] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:18] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:18] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:18] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:18] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:18] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:18] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:18] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:18] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:24] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:24] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:24] crowsnest: Prepare Startup ...
+[10/20/23 10:51:24] crowsnest: INFO: Host information:
+[10/20/23 10:51:24] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:24] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:24] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:24] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:24] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:24] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:24] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:24] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:24] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:24] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:24] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:47] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:53] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:53] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:53] crowsnest: Prepare Startup ...
+[10/20/23 10:51:53] crowsnest: INFO: Host information:
+[10/20/23 10:51:53] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:53] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:53] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:53] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:53] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:53] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:53] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:53] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:53] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:53] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:53] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:53] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:51:59] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:51:59] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:51:59] crowsnest: Prepare Startup ...
+[10/20/23 10:51:59] crowsnest: INFO: Host information:
+[10/20/23 10:51:59] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:51:59] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:51:59] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:51:59] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:51:59] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:51:59] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:51:59] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:51:59] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:51:59] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:51:59] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:51:59] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:51:59] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:52:05] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:52:05] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:52:05] crowsnest: Prepare Startup ...
+[10/20/23 10:52:05] crowsnest: INFO: Host information:
+[10/20/23 10:52:05] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:52:05] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:52:05] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:52:05] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:52:05] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:52:05] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:52:05] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:52:05] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:52:05] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:52:05] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:52:05] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:52:05] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:52:11] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:52:11] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:52:11] crowsnest: Prepare Startup ...
+[10/20/23 10:52:11] crowsnest: INFO: Host information:
+[10/20/23 10:52:11] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:52:11] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:52:11] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:52:11] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:52:11] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:52:11] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:52:11] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:52:11] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:52:11] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:52:11] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:52:11] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:52:11] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:52:17] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:52:17] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:52:17] crowsnest: Prepare Startup ...
+[10/20/23 10:52:17] crowsnest: INFO: Host information:
+[10/20/23 10:52:17] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:52:17] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:52:17] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:52:17] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:52:17] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:52:17] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:52:17] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:52:17] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:52:17] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:52:17] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:52:17] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:52:17] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/20/23 10:52:23] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/20/23 10:52:23] crowsnest: Version: v4.0.4-6-g767c53a
+[10/20/23 10:52:23] crowsnest: Prepare Startup ...
+[10/20/23 10:52:23] crowsnest: INFO: Host information:
+[10/20/23 10:52:23] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/20/23 10:52:23] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/20/23 10:52:23] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/20/23 10:52:23] crowsnest: Host Info: Available CPU Cores: 4
+[10/20/23 10:52:23] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/20/23 10:52:23] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/20/23 10:52:23] crowsnest: INFO: Checking Dependencies
+[10/20/23 10:52:23] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/20/23 10:52:23] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/20/23 10:52:23] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/20/23 10:52:23] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/20/23 10:52:23] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:27:51] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:27:52] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:27:52] crowsnest: Prepare Startup ...
+[10/22/23 21:27:52] crowsnest: INFO: Host information:
+[10/22/23 21:27:52] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:27:52] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:27:52] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:27:52] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:27:52] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:27:52] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:27:52] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:27:55] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:27:55] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:27:55] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:27:55] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:27:55] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:01] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:01] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:01] crowsnest: Prepare Startup ...
+[10/22/23 21:28:01] crowsnest: INFO: Host information:
+[10/22/23 21:28:01] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:01] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:01] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:01] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:01] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:01] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:01] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:01] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:01] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:01] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:01] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:01] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:07] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:07] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:07] crowsnest: Prepare Startup ...
+[10/22/23 21:28:07] crowsnest: INFO: Host information:
+[10/22/23 21:28:07] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:07] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:07] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:07] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:07] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:07] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:07] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:07] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:07] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:07] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:07] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:07] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:13] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:13] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:13] crowsnest: Prepare Startup ...
+[10/22/23 21:28:13] crowsnest: INFO: Host information:
+[10/22/23 21:28:13] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:13] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:13] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:13] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:13] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:13] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:13] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:13] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:13] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:13] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:13] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:13] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:39] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:40] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:40] crowsnest: Prepare Startup ...
+[10/22/23 21:28:40] crowsnest: INFO: Host information:
+[10/22/23 21:28:40] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:40] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:40] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:40] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:40] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:40] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:40] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:40] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:40] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:40] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:40] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:40] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:45] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:45] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:45] crowsnest: Prepare Startup ...
+[10/22/23 21:28:46] crowsnest: INFO: Host information:
+[10/22/23 21:28:46] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:46] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:46] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:46] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:46] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:46] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:46] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:46] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:46] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:46] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:46] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:46] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:51] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:51] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:51] crowsnest: Prepare Startup ...
+[10/22/23 21:28:51] crowsnest: INFO: Host information:
+[10/22/23 21:28:51] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:51] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:51] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:51] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:51] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:51] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:51] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:51] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:51] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:51] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:51] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:52] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:28:57] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:28:57] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:28:57] crowsnest: Prepare Startup ...
+[10/22/23 21:28:57] crowsnest: INFO: Host information:
+[10/22/23 21:28:57] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:28:57] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:28:57] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:28:57] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:28:57] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:28:57] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:28:57] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:28:57] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:28:57] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:28:57] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:28:57] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:28:57] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:29:03] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:29:03] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:29:03] crowsnest: Prepare Startup ...
+[10/22/23 21:29:03] crowsnest: INFO: Host information:
+[10/22/23 21:29:03] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:29:03] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:29:03] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:29:03] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:29:03] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:29:03] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:29:03] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:29:03] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:29:03] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:29:03] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:29:03] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:29:04] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:29:09] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:29:09] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:29:09] crowsnest: Prepare Startup ...
+[10/22/23 21:29:09] crowsnest: INFO: Host information:
+[10/22/23 21:29:09] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:29:09] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:29:09] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:29:09] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:29:09] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:29:09] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:29:09] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:29:09] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:29:09] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:29:09] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:29:09] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:29:09] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:56:51] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:56:51] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:56:51] crowsnest: Prepare Startup ...
+[10/22/23 21:56:51] crowsnest: INFO: Host information:
+[10/22/23 21:56:51] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:56:51] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:56:51] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:56:51] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:56:51] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:56:51] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:56:51] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:56:51] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:56:51] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:56:51] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:56:51] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:56:51] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:56:57] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:56:57] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:56:57] crowsnest: Prepare Startup ...
+[10/22/23 21:56:57] crowsnest: INFO: Host information:
+[10/22/23 21:56:57] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:56:57] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:56:57] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:56:57] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:56:57] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:56:57] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:56:57] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:56:57] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:56:57] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:56:57] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:56:57] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:56:57] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:02] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:03] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:03] crowsnest: Prepare Startup ...
+[10/22/23 21:57:03] crowsnest: INFO: Host information:
+[10/22/23 21:57:03] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:03] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:03] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:03] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:03] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:03] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:03] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:03] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:03] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:03] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:03] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:03] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:08] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:09] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:09] crowsnest: Prepare Startup ...
+[10/22/23 21:57:09] crowsnest: INFO: Host information:
+[10/22/23 21:57:09] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:09] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:09] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:09] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:09] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:09] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:09] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:09] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:09] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:09] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:09] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:09] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:14] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:14] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:14] crowsnest: Prepare Startup ...
+[10/22/23 21:57:15] crowsnest: INFO: Host information:
+[10/22/23 21:57:15] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:15] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:15] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:15] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:15] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:15] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:15] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:15] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:15] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:15] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:15] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:15] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:20] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:21] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:21] crowsnest: Prepare Startup ...
+[10/22/23 21:57:21] crowsnest: INFO: Host information:
+[10/22/23 21:57:21] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:21] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:21] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:21] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:21] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:21] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:21] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:21] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:21] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:21] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:21] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:21] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:27] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:27] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:27] crowsnest: Prepare Startup ...
+[10/22/23 21:57:27] crowsnest: INFO: Host information:
+[10/22/23 21:57:27] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:27] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:27] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:27] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:27] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:27] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:27] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:27] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:27] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:27] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:27] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:27] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:32] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:33] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:33] crowsnest: Prepare Startup ...
+[10/22/23 21:57:33] crowsnest: INFO: Host information:
+[10/22/23 21:57:33] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:33] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:33] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:33] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:33] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:33] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:33] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:33] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:33] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:33] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:33] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:33] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:38] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:39] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:39] crowsnest: Prepare Startup ...
+[10/22/23 21:57:39] crowsnest: INFO: Host information:
+[10/22/23 21:57:39] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:39] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:39] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:39] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:39] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:39] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:39] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:39] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:39] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:39] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:39] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:39] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:57:44] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:57:45] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:57:45] crowsnest: Prepare Startup ...
+[10/22/23 21:57:45] crowsnest: INFO: Host information:
+[10/22/23 21:57:45] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:57:45] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:57:45] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:57:45] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:57:45] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:57:45] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:57:45] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:57:45] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:57:45] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:57:45] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:57:45] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:57:45] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 21:59:54] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 21:59:54] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 21:59:54] crowsnest: Prepare Startup ...
+[10/22/23 21:59:54] crowsnest: INFO: Host information:
+[10/22/23 21:59:54] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 21:59:54] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 21:59:54] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 21:59:54] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 21:59:54] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 21:59:54] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 21:59:54] crowsnest: INFO: Checking Dependencies
+[10/22/23 21:59:54] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 21:59:54] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 21:59:54] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 21:59:54] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 21:59:54] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:00] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:00] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:00] crowsnest: Prepare Startup ...
+[10/22/23 22:00:00] crowsnest: INFO: Host information:
+[10/22/23 22:00:00] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:00] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:00] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:00] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:00] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:00] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:00] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:00] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:00] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:00] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:00] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:00] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:06] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:06] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:06] crowsnest: Prepare Startup ...
+[10/22/23 22:00:06] crowsnest: INFO: Host information:
+[10/22/23 22:00:06] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:06] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:06] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:06] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:06] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:06] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:06] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:06] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:06] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:06] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:06] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:07] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:12] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:12] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:12] crowsnest: Prepare Startup ...
+[10/22/23 22:00:12] crowsnest: INFO: Host information:
+[10/22/23 22:00:12] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:12] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:12] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:12] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:12] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:12] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:12] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:12] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:12] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:12] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:12] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:12] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:18] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:18] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:18] crowsnest: Prepare Startup ...
+[10/22/23 22:00:18] crowsnest: INFO: Host information:
+[10/22/23 22:00:18] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:18] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:18] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:18] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:18] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:18] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:18] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:18] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:18] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:18] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:18] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:18] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:24] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:24] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:24] crowsnest: Prepare Startup ...
+[10/22/23 22:00:24] crowsnest: INFO: Host information:
+[10/22/23 22:00:24] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:24] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:24] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:24] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:24] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:24] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:24] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:24] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:24] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:24] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:24] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:24] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:30] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:30] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:30] crowsnest: Prepare Startup ...
+[10/22/23 22:00:30] crowsnest: INFO: Host information:
+[10/22/23 22:00:30] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:30] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:30] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:30] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:30] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:30] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:30] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:30] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:30] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:30] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:30] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:31] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:36] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:36] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:36] crowsnest: Prepare Startup ...
+[10/22/23 22:00:36] crowsnest: INFO: Host information:
+[10/22/23 22:00:36] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:36] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:36] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:36] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:36] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:36] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:36] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:36] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:36] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:36] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:36] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:37] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:42] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:42] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:42] crowsnest: Prepare Startup ...
+[10/22/23 22:00:42] crowsnest: INFO: Host information:
+[10/22/23 22:00:42] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:42] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:42] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:42] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:42] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:42] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:42] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:42] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:42] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:42] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:42] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:42] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:00:44] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:00:44] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:00:44] crowsnest: Prepare Startup ...
+[10/22/23 22:00:44] crowsnest: INFO: Host information:
+[10/22/23 22:00:44] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:00:44] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:00:44] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:00:44] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:00:44] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:00:44] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:00:44] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:00:44] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:00:44] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:00:44] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:00:44] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:00:44] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:23] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:23] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:23] crowsnest: Prepare Startup ...
+[10/22/23 22:03:23] crowsnest: INFO: Host information:
+[10/22/23 22:03:23] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:23] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:23] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:23] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:23] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:23] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:23] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:23] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:23] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:23] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:23] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:23] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:29] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:29] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:29] crowsnest: Prepare Startup ...
+[10/22/23 22:03:29] crowsnest: INFO: Host information:
+[10/22/23 22:03:29] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:29] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:29] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:29] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:29] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:29] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:29] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:29] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:29] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:29] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:29] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:29] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:35] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:35] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:35] crowsnest: Prepare Startup ...
+[10/22/23 22:03:35] crowsnest: INFO: Host information:
+[10/22/23 22:03:35] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:35] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:35] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:35] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:35] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:35] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:35] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:35] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:35] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:35] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:35] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:35] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:41] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:41] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:41] crowsnest: Prepare Startup ...
+[10/22/23 22:03:41] crowsnest: INFO: Host information:
+[10/22/23 22:03:41] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:41] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:41] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:41] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:41] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:41] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:41] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:41] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:41] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:41] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:41] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:41] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:47] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:47] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:47] crowsnest: Prepare Startup ...
+[10/22/23 22:03:47] crowsnest: INFO: Host information:
+[10/22/23 22:03:47] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:47] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:47] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:47] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:47] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:47] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:47] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:47] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:47] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:47] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:47] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:47] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:53] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:53] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:53] crowsnest: Prepare Startup ...
+[10/22/23 22:03:53] crowsnest: INFO: Host information:
+[10/22/23 22:03:53] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:53] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:53] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:53] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:53] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:53] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:53] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:53] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:53] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:53] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:53] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:53] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:03:59] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:03:59] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:03:59] crowsnest: Prepare Startup ...
+[10/22/23 22:03:59] crowsnest: INFO: Host information:
+[10/22/23 22:03:59] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:03:59] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:03:59] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:03:59] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:03:59] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:03:59] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:03:59] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:03:59] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:03:59] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:03:59] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:03:59] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:03:59] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:04:05] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:04:05] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:04:05] crowsnest: Prepare Startup ...
+[10/22/23 22:04:05] crowsnest: INFO: Host information:
+[10/22/23 22:04:05] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:04:05] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:04:05] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:04:05] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:04:05] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:04:05] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:04:05] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:04:05] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:04:05] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:04:05] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:04:05] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:04:05] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:04:11] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:04:11] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:04:11] crowsnest: Prepare Startup ...
+[10/22/23 22:04:11] crowsnest: INFO: Host information:
+[10/22/23 22:04:11] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:04:11] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:04:11] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:04:11] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:04:11] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:04:11] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:04:11] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:04:11] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:04:11] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:04:11] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:04:11] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:04:11] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:04:17] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:04:17] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:04:17] crowsnest: Prepare Startup ...
+[10/22/23 22:04:17] crowsnest: INFO: Host information:
+[10/22/23 22:04:17] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:04:17] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:04:17] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:04:17] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:04:17] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:04:17] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:04:17] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:04:17] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:04:17] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:04:17] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:04:17] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:04:17] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:19:39] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:19:39] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:19:39] crowsnest: Prepare Startup ...
+[10/22/23 22:19:39] crowsnest: INFO: Host information:
+[10/22/23 22:19:39] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:19:39] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:19:39] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:19:39] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:19:39] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:19:39] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:19:39] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:19:39] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:19:39] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:19:39] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:19:39] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:19:39] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:19:44] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:19:45] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:19:45] crowsnest: Prepare Startup ...
+[10/22/23 22:19:45] crowsnest: INFO: Host information:
+[10/22/23 22:19:45] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:19:45] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:19:45] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:19:45] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:19:45] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:19:45] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:19:45] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:19:45] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:19:45] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:19:45] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:19:45] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:19:45] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:19:50] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:19:50] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:19:50] crowsnest: Prepare Startup ...
+[10/22/23 22:19:51] crowsnest: INFO: Host information:
+[10/22/23 22:19:51] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:19:51] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:19:51] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:19:51] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:19:51] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:19:51] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:19:51] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:19:51] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:19:51] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:19:51] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:19:51] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:19:51] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:19:56] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:19:57] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:19:57] crowsnest: Prepare Startup ...
+[10/22/23 22:19:57] crowsnest: INFO: Host information:
+[10/22/23 22:19:57] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:19:57] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:19:57] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:19:57] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:19:57] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:19:57] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:19:57] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:19:57] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:19:57] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:19:57] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:19:57] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:19:57] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:20:03] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:20:03] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:20:03] crowsnest: Prepare Startup ...
+[10/22/23 22:20:03] crowsnest: INFO: Host information:
+[10/22/23 22:20:03] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:20:03] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:20:03] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:20:03] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:20:03] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:20:03] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:20:03] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:20:03] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:20:03] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:20:03] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:20:03] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:20:03] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:20:09] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:20:09] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:20:09] crowsnest: Prepare Startup ...
+[10/22/23 22:20:09] crowsnest: INFO: Host information:
+[10/22/23 22:20:09] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:20:09] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:20:09] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:20:09] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:20:09] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:20:09] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:20:09] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:20:09] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:20:09] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:20:09] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:20:09] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:20:09] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:20:14] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:20:15] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:20:15] crowsnest: Prepare Startup ...
+[10/22/23 22:20:15] crowsnest: INFO: Host information:
+[10/22/23 22:20:15] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:20:15] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:20:15] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:20:15] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:20:15] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:20:15] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:20:15] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:20:15] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:20:15] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:20:15] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:20:15] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:20:15] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:20:20] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:20:20] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:20:20] crowsnest: Prepare Startup ...
+[10/22/23 22:20:21] crowsnest: INFO: Host information:
+[10/22/23 22:20:21] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:20:21] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:20:21] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:20:21] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:20:21] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:20:21] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:20:21] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:20:21] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:20:21] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:20:21] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:20:21] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:20:21] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:20:26] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:20:27] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:20:27] crowsnest: Prepare Startup ...
+[10/22/23 22:20:27] crowsnest: INFO: Host information:
+[10/22/23 22:20:27] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:20:27] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:20:27] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:20:27] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:20:27] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:20:27] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:20:27] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:20:27] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:20:27] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:20:27] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:20:27] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:20:27] crowsnest: Dependency: 'camera-streamer' not found. Exiting!
+[10/22/23 22:25:12] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:25:12] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:25:12] crowsnest: Prepare Startup ...
+[10/22/23 22:25:12] crowsnest: INFO: Host information:
+[10/22/23 22:25:12] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:25:13] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:25:13] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:25:13] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:25:13] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:25:13] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:25:13] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:25:13] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:25:13] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:25:13] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:25:13] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:25:13] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:25:13] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:25:16] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:25:16] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:25:16] crowsnest:		[crowsnest]
+[10/22/23 22:25:16] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:25:16] crowsnest:		log_level: verbose
+[10/22/23 22:25:16] crowsnest:		delete_log: false
+[10/22/23 22:25:16] crowsnest:		no_proxy: false
+[10/22/23 22:25:16] crowsnest:		
+[10/22/23 22:25:16] crowsnest:		[cam 1]
+[10/22/23 22:25:16] crowsnest:		mode: camera-streamer
+[10/22/23 22:25:16] crowsnest:		
+[10/22/23 22:25:16] crowsnest:		enable_rtsp: false
+[10/22/23 22:25:16] crowsnest:		rtsp_port: 8554
+[10/22/23 22:25:16] crowsnest:		port: 8080
+[10/22/23 22:25:16] crowsnest:		device: /dev/video0
+[10/22/23 22:25:16] crowsnest:		resolution: 640x480
+[10/22/23 22:25:16] crowsnest:		max_fps: 15
+[10/22/23 22:25:16] crowsnest: INFO: Detect available Devices
+[10/22/23 22:25:16] crowsnest: INFO: Found 1 total available Device(s)
+[10/22/23 22:25:16] crowsnest: INFO: Found 1 available v4l2 (UVC) camera(s)
+[10/22/23 22:25:16] crowsnest: /dev/v4l/by-id/usb-Generic_USB2.0_PC_CAMERA-video-index0 -> /dev/video0
+[10/22/23 22:25:16] crowsnest: Supported Formats:
+[10/22/23 22:25:16] crowsnest:		[0]: 'YUYV' (YUYV 4:2:2)
+[10/22/23 22:25:16] crowsnest:		Size: Discrete 640x480
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:25:16] crowsnest:		Size: Discrete 352x288
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:25:16] crowsnest:		Size: Discrete 320x240
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:25:16] crowsnest:		Size: Discrete 176x144
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:25:16] crowsnest:		Size: Discrete 160x120
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:25:16] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:25:16] crowsnest: Supported Controls:
+[10/22/23 22:25:16] crowsnest:		
+[10/22/23 22:25:16] crowsnest:		User Controls
+[10/22/23 22:25:16] crowsnest:		
+[10/22/23 22:25:16] crowsnest:		brightness 0x00980900 (int)    : min=0 max=255 step=1 default=128 value=128
+[10/22/23 22:25:16] crowsnest:		contrast 0x00980901 (int)    : min=0 max=255 step=1 default=130 value=130
+[10/22/23 22:25:16] crowsnest:		saturation 0x00980902 (int)    : min=0 max=255 step=1 default=64 value=64
+[10/22/23 22:25:16] crowsnest:		hue 0x00980903 (int)    : min=-127 max=127 step=1 default=0 value=0
+[10/22/23 22:25:16] crowsnest:		gamma 0x00980910 (int)    : min=1 max=8 step=1 default=4 value=4
+[10/22/23 22:25:16] crowsnest:		power_line_frequency 0x00980918 (menu)   : min=0 max=2 default=1 value=1 (50 Hz)
+[10/22/23 22:25:16] crowsnest:		0: Disabled
+[10/22/23 22:25:16] crowsnest:		1: 50 Hz
+[10/22/23 22:25:16] crowsnest:		2: 60 Hz
+[10/22/23 22:25:16] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=15 step=1 default=13 value=13
+[10/22/23 22:25:16] crowsnest:		backlight_compensation 0x0098091c (int)    : min=1 max=5 step=1 default=1 value=1
+[10/22/23 22:25:16] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:25:17] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:25:19] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:25:19] crowsnest:  ... Done!
+[10/22/23 22:26:58] crowsnest: Shutdown or Killed by User!
+[10/22/23 22:26:58] crowsnest: Please come again :)
+[10/22/23 22:26:58] crowsnest: Goodbye...
+[10/22/23 22:26:59] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:26:59] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:26:59] crowsnest: Prepare Startup ...
+[10/22/23 22:26:59] crowsnest: INFO: Host information:
+[10/22/23 22:26:59] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:26:59] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:26:59] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:26:59] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:26:59] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:26:59] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:26:59] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:26:59] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:26:59] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:26:59] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:26:59] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:26:59] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:26:59] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:26:59] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:26:59] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:26:59] crowsnest:		[crowsnest]
+[10/22/23 22:26:59] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:26:59] crowsnest:		log_level: verbose
+[10/22/23 22:26:59] crowsnest:		delete_log: false
+[10/22/23 22:26:59] crowsnest:		no_proxy: false
+[10/22/23 22:26:59] crowsnest:		
+[10/22/23 22:26:59] crowsnest:		[cam 1]
+[10/22/23 22:26:59] crowsnest:		mode: camera-streamer
+[10/22/23 22:26:59] crowsnest:		
+[10/22/23 22:26:59] crowsnest:		enable_rtsp: false
+[10/22/23 22:26:59] crowsnest:		rtsp_port: 8554
+[10/22/23 22:26:59] crowsnest:		port: 8080
+[10/22/23 22:26:59] crowsnest:		device: /dev/video0
+[10/22/23 22:26:59] crowsnest:		resolution: 640x480
+[10/22/23 22:26:59] crowsnest:		max_fps: 15
+[10/22/23 22:26:59] crowsnest: INFO: Detect available Devices
+[10/22/23 22:26:59] crowsnest: INFO: Found 2 total available Device(s)
+[10/22/23 22:27:00] crowsnest: INFO: Found 2 available v4l2 (UVC) camera(s)
+[10/22/23 22:27:00] crowsnest: /dev/v4l/by-id/usb-GENERAL_GENERAL_-_UVC-video-index0 -> /dev/video2
+[10/22/23 22:27:00] crowsnest: Supported Formats:
+[10/22/23 22:27:00] crowsnest:		[0]: 'MJPG' (Motion-JPEG, compressed)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 1280x720
+[10/22/23 22:27:00] crowsnest:		Interval: Stepwise 0.033s - 0.033s with step 0.000s (30.000-30.000 fps)
+[10/22/23 22:27:00] crowsnest: Supported Controls:
+[10/22/23 22:27:00] crowsnest:		
+[10/22/23 22:27:00] crowsnest:		User Controls
+[10/22/23 22:27:00] crowsnest:		
+[10/22/23 22:27:00] crowsnest:		brightness 0x00980900 (int)    : min=1 max=255 step=1 default=48 value=48
+[10/22/23 22:27:00] crowsnest:		contrast 0x00980901 (int)    : min=1 max=127 step=1 default=36 value=36
+[10/22/23 22:27:00] crowsnest:		saturation 0x00980902 (int)    : min=1 max=127 step=1 default=64 value=64
+[10/22/23 22:27:00] crowsnest:		hue 0x00980903 (int)    : min=-128 max=127 step=1 default=0 value=0
+[10/22/23 22:27:00] crowsnest:		gamma 0x00980910 (int)    : min=0 max=20 step=1 default=0 value=10
+[10/22/23 22:27:00] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=3 step=1 default=3 value=3
+[10/22/23 22:27:00] crowsnest:		backlight_compensation 0x0098091c (int)    : min=0 max=127 step=1 default=8 value=8
+[10/22/23 22:27:00] crowsnest: /dev/v4l/by-id/usb-Generic_USB2.0_PC_CAMERA-video-index0 -> /dev/video0
+[10/22/23 22:27:00] crowsnest: Supported Formats:
+[10/22/23 22:27:00] crowsnest:		[0]: 'YUYV' (YUYV 4:2:2)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 640x480
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 352x288
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 320x240
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 176x144
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:27:00] crowsnest:		Size: Discrete 160x120
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:27:00] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:27:00] crowsnest: Supported Controls:
+[10/22/23 22:27:00] crowsnest:		
+[10/22/23 22:27:00] crowsnest:		User Controls
+[10/22/23 22:27:00] crowsnest:		
+[10/22/23 22:27:00] crowsnest:		brightness 0x00980900 (int)    : min=0 max=255 step=1 default=128 value=128
+[10/22/23 22:27:00] crowsnest:		contrast 0x00980901 (int)    : min=0 max=255 step=1 default=130 value=130
+[10/22/23 22:27:00] crowsnest:		saturation 0x00980902 (int)    : min=0 max=255 step=1 default=64 value=64
+[10/22/23 22:27:00] crowsnest:		hue 0x00980903 (int)    : min=-127 max=127 step=1 default=0 value=0
+[10/22/23 22:27:00] crowsnest:		gamma 0x00980910 (int)    : min=1 max=8 step=1 default=4 value=4
+[10/22/23 22:27:00] crowsnest:		power_line_frequency 0x00980918 (menu)   : min=0 max=2 default=1 value=1 (50 Hz)
+[10/22/23 22:27:00] crowsnest:		0: Disabled
+[10/22/23 22:27:00] crowsnest:		1: 50 Hz
+[10/22/23 22:27:00] crowsnest:		2: 60 Hz
+[10/22/23 22:27:00] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=15 step=1 default=13 value=13
+[10/22/23 22:27:00] crowsnest:		backlight_compensation 0x0098091c (int)    : min=1 max=5 step=1 default=1 value=1
+[10/22/23 22:27:00] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:27:01] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:27:02] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:27:03] crowsnest:  ... Done!
+[10/22/23 22:29:02] crowsnest: Shutdown or Killed by User!
+[10/22/23 22:29:02] crowsnest: Please come again :)
+[10/22/23 22:29:02] crowsnest: Goodbye...
+[10/22/23 22:29:02] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:29:02] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:29:02] crowsnest: Prepare Startup ...
+[10/22/23 22:29:02] crowsnest: INFO: Host information:
+[10/22/23 22:29:02] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:29:02] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:29:02] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:29:02] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:29:02] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:29:02] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:29:02] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:29:02] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:29:02] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:29:02] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:29:02] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:29:02] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:29:02] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:29:03] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:29:03] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:29:03] crowsnest:		[crowsnest]
+[10/22/23 22:29:03] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:29:03] crowsnest:		log_level: verbose
+[10/22/23 22:29:03] crowsnest:		delete_log: false
+[10/22/23 22:29:03] crowsnest:		no_proxy: false
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		[cam 1]
+[10/22/23 22:29:03] crowsnest:		mode: camera-streamer
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		enable_rtsp: false
+[10/22/23 22:29:03] crowsnest:		rtsp_port: 8554
+[10/22/23 22:29:03] crowsnest:		port: 8080
+[10/22/23 22:29:03] crowsnest:		device: /dev/video0
+[10/22/23 22:29:03] crowsnest:		resolution: 640x480
+[10/22/23 22:29:03] crowsnest:		max_fps: 15
+[10/22/23 22:29:03] crowsnest: INFO: Detect available Devices
+[10/22/23 22:29:03] crowsnest: INFO: Found 2 total available Device(s)
+[10/22/23 22:29:03] crowsnest: INFO: Found 2 available v4l2 (UVC) camera(s)
+[10/22/23 22:29:03] crowsnest: /dev/v4l/by-id/usb-GENERAL_GENERAL_-_UVC-video-index0 -> /dev/video2
+[10/22/23 22:29:03] crowsnest: Supported Formats:
+[10/22/23 22:29:03] crowsnest:		[0]: 'MJPG' (Motion-JPEG, compressed)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 1280x720
+[10/22/23 22:29:03] crowsnest:		Interval: Stepwise 0.033s - 0.033s with step 0.000s (30.000-30.000 fps)
+[10/22/23 22:29:03] crowsnest: Supported Controls:
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		User Controls
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		brightness 0x00980900 (int)    : min=1 max=255 step=1 default=48 value=48
+[10/22/23 22:29:03] crowsnest:		contrast 0x00980901 (int)    : min=1 max=127 step=1 default=36 value=36
+[10/22/23 22:29:03] crowsnest:		saturation 0x00980902 (int)    : min=1 max=127 step=1 default=64 value=64
+[10/22/23 22:29:03] crowsnest:		hue 0x00980903 (int)    : min=-128 max=127 step=1 default=0 value=0
+[10/22/23 22:29:03] crowsnest:		gamma 0x00980910 (int)    : min=0 max=20 step=1 default=0 value=10
+[10/22/23 22:29:03] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=3 step=1 default=3 value=3
+[10/22/23 22:29:03] crowsnest:		backlight_compensation 0x0098091c (int)    : min=0 max=127 step=1 default=8 value=8
+[10/22/23 22:29:03] crowsnest: /dev/v4l/by-id/usb-Generic_USB2.0_PC_CAMERA-video-index0 -> /dev/video0
+[10/22/23 22:29:03] crowsnest: Supported Formats:
+[10/22/23 22:29:03] crowsnest:		[0]: 'YUYV' (YUYV 4:2:2)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 640x480
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 352x288
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 320x240
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 176x144
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:29:03] crowsnest:		Size: Discrete 160x120
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:29:03] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:29:03] crowsnest: Supported Controls:
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		User Controls
+[10/22/23 22:29:03] crowsnest:		
+[10/22/23 22:29:03] crowsnest:		brightness 0x00980900 (int)    : min=0 max=255 step=1 default=128 value=128
+[10/22/23 22:29:03] crowsnest:		contrast 0x00980901 (int)    : min=0 max=255 step=1 default=130 value=130
+[10/22/23 22:29:03] crowsnest:		saturation 0x00980902 (int)    : min=0 max=255 step=1 default=64 value=64
+[10/22/23 22:29:03] crowsnest:		hue 0x00980903 (int)    : min=-127 max=127 step=1 default=0 value=0
+[10/22/23 22:29:03] crowsnest:		gamma 0x00980910 (int)    : min=1 max=8 step=1 default=4 value=4
+[10/22/23 22:29:03] crowsnest:		power_line_frequency 0x00980918 (menu)   : min=0 max=2 default=1 value=1 (50 Hz)
+[10/22/23 22:29:03] crowsnest:		0: Disabled
+[10/22/23 22:29:03] crowsnest:		1: 50 Hz
+[10/22/23 22:29:03] crowsnest:		2: 60 Hz
+[10/22/23 22:29:03] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=15 step=1 default=13 value=13
+[10/22/23 22:29:03] crowsnest:		backlight_compensation 0x0098091c (int)    : min=1 max=5 step=1 default=1 value=1
+[10/22/23 22:29:03] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:29:04] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:29:06] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:29:06] crowsnest:  ... Done!
+[10/22/23 22:30:19] crowsnest: Shutdown or Killed by User!
+[10/22/23 22:30:19] crowsnest: Please come again :)
+[10/22/23 22:30:19] crowsnest: Goodbye...
+[10/22/23 22:30:20] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:30:20] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:30:20] crowsnest: Prepare Startup ...
+[10/22/23 22:30:20] crowsnest: INFO: Host information:
+[10/22/23 22:30:20] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:30:20] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:30:20] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:30:20] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:30:20] crowsnest: Host Info: Available Memory: 3883208 kB
+[10/22/23 22:30:20] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:30:20] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:30:20] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:30:20] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:30:20] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:30:20] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:30:20] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:30:20] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:30:20] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:30:20] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:30:20] crowsnest:		[crowsnest]
+[10/22/23 22:30:20] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:30:20] crowsnest:		log_level: verbose
+[10/22/23 22:30:20] crowsnest:		delete_log: false
+[10/22/23 22:30:20] crowsnest:		no_proxy: false
+[10/22/23 22:30:20] crowsnest:		
+[10/22/23 22:30:20] crowsnest:		[cam 1]
+[10/22/23 22:30:20] crowsnest:		mode: camera-streamer
+[10/22/23 22:30:20] crowsnest:		
+[10/22/23 22:30:20] crowsnest:		enable_rtsp: false
+[10/22/23 22:30:20] crowsnest:		rtsp_port: 8554
+[10/22/23 22:30:20] crowsnest:		port: 8080
+[10/22/23 22:30:20] crowsnest:		device: /dev/video0
+[10/22/23 22:30:20] crowsnest:		resolution: 640x480
+[10/22/23 22:30:20] crowsnest:		max_fps: 15
+[10/22/23 22:30:20] crowsnest: INFO: Detect available Devices
+[10/22/23 22:30:20] crowsnest: INFO: Found 1 total available Device(s)
+[10/22/23 22:30:20] crowsnest: INFO: Found 1 available v4l2 (UVC) camera(s)
+[10/22/23 22:30:20] crowsnest: /dev/v4l/by-id/usb-GENERAL_GENERAL_-_UVC-video-index0 -> /dev/video2
+[10/22/23 22:30:20] crowsnest: Supported Formats:
+[10/22/23 22:30:20] crowsnest:		[0]: 'MJPG' (Motion-JPEG, compressed)
+[10/22/23 22:30:20] crowsnest:		Size: Discrete 1280x720
+[10/22/23 22:30:20] crowsnest:		Interval: Stepwise 0.033s - 0.033s with step 0.000s (30.000-30.000 fps)
+[10/22/23 22:30:20] crowsnest: Supported Controls:
+[10/22/23 22:30:20] crowsnest:		
+[10/22/23 22:30:20] crowsnest:		User Controls
+[10/22/23 22:30:20] crowsnest:		
+[10/22/23 22:30:20] crowsnest:		brightness 0x00980900 (int)    : min=1 max=255 step=1 default=48 value=48
+[10/22/23 22:30:20] crowsnest:		contrast 0x00980901 (int)    : min=1 max=127 step=1 default=36 value=36
+[10/22/23 22:30:20] crowsnest:		saturation 0x00980902 (int)    : min=1 max=127 step=1 default=64 value=64
+[10/22/23 22:30:20] crowsnest:		hue 0x00980903 (int)    : min=-128 max=127 step=1 default=0 value=0
+[10/22/23 22:30:20] crowsnest:		gamma 0x00980910 (int)    : min=0 max=20 step=1 default=0 value=10
+[10/22/23 22:30:20] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=3 step=1 default=3 value=3
+[10/22/23 22:30:20] crowsnest:		backlight_compensation 0x0098091c (int)    : min=0 max=127 step=1 default=8 value=8
+[10/22/23 22:30:20] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:30:22] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:30:23] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:30:24] crowsnest:  ... Done!
+[10/22/23 22:30:24] crowsnest: WATCHDOG: Lost Device: '/dev/video0'
+[10/22/23 22:31:02] crowsnest: Shutdown or Killed by User!
+[10/22/23 22:31:02] crowsnest: Please come again :)
+[10/22/23 22:31:02] crowsnest: Goodbye...
+[10/22/23 22:31:14] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:31:15] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:31:15] crowsnest: Prepare Startup ...
+[10/22/23 22:31:15] crowsnest: INFO: Host information:
+[10/22/23 22:31:15] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:31:15] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:31:15] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:31:15] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:31:15] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/22/23 22:31:15] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:31:15] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:31:18] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:31:18] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:31:18] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:31:18] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:31:19] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:31:19] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:31:22] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:31:22] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:31:22] crowsnest:		[crowsnest]
+[10/22/23 22:31:22] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:31:22] crowsnest:		log_level: verbose
+[10/22/23 22:31:22] crowsnest:		delete_log: false
+[10/22/23 22:31:22] crowsnest:		no_proxy: false
+[10/22/23 22:31:22] crowsnest:		
+[10/22/23 22:31:22] crowsnest:		[cam 1]
+[10/22/23 22:31:22] crowsnest:		mode: camera-streamer
+[10/22/23 22:31:22] crowsnest:		
+[10/22/23 22:31:22] crowsnest:		enable_rtsp: false
+[10/22/23 22:31:22] crowsnest:		rtsp_port: 8554
+[10/22/23 22:31:22] crowsnest:		port: 8080
+[10/22/23 22:31:22] crowsnest:		device: /dev/video0
+[10/22/23 22:31:22] crowsnest:		resolution: 640x480
+[10/22/23 22:31:22] crowsnest:		max_fps: 15
+[10/22/23 22:31:22] crowsnest: INFO: Detect available Devices
+[10/22/23 22:31:23] crowsnest: INFO: Found 1 total available Device(s)
+[10/22/23 22:31:23] crowsnest: INFO: Found 1 available v4l2 (UVC) camera(s)
+[10/22/23 22:31:23] crowsnest: /dev/v4l/by-id/usb-GENERAL_GENERAL_-_UVC-video-index0 -> /dev/video0
+[10/22/23 22:31:23] crowsnest: Supported Formats:
+[10/22/23 22:31:23] crowsnest:		[0]: 'MJPG' (Motion-JPEG, compressed)
+[10/22/23 22:31:23] crowsnest:		Size: Discrete 1280x720
+[10/22/23 22:31:23] crowsnest:		Interval: Stepwise 0.033s - 0.033s with step 0.000s (30.000-30.000 fps)
+[10/22/23 22:31:23] crowsnest: Supported Controls:
+[10/22/23 22:31:23] crowsnest:		
+[10/22/23 22:31:23] crowsnest:		User Controls
+[10/22/23 22:31:23] crowsnest:		
+[10/22/23 22:31:23] crowsnest:		brightness 0x00980900 (int)    : min=1 max=255 step=1 default=48 value=48
+[10/22/23 22:31:23] crowsnest:		contrast 0x00980901 (int)    : min=1 max=127 step=1 default=36 value=36
+[10/22/23 22:31:23] crowsnest:		saturation 0x00980902 (int)    : min=1 max=127 step=1 default=64 value=64
+[10/22/23 22:31:23] crowsnest:		hue 0x00980903 (int)    : min=-128 max=127 step=1 default=0 value=0
+[10/22/23 22:31:23] crowsnest:		gamma 0x00980910 (int)    : min=0 max=20 step=1 default=0 value=10
+[10/22/23 22:31:23] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=3 step=1 default=3 value=3
+[10/22/23 22:31:23] crowsnest:		backlight_compensation 0x0098091c (int)    : min=0 max=127 step=1 default=8 value=8
+[10/22/23 22:31:23] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:31:25] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:31:26] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:31:27] crowsnest:  ... Done!
+[10/22/23 22:37:47] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:37:47] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:37:47] crowsnest: Prepare Startup ...
+[10/22/23 22:37:47] crowsnest: INFO: Host information:
+[10/22/23 22:37:47] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:37:47] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:37:47] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:37:47] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:37:47] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/22/23 22:37:47] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:37:47] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:37:47] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:37:47] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:37:47] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:37:47] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:37:47] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:37:47] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:37:47] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:37:47] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:37:47] crowsnest:		[crowsnest]
+[10/22/23 22:37:47] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:37:47] crowsnest:		log_level: verbose
+[10/22/23 22:37:47] crowsnest:		delete_log: false
+[10/22/23 22:37:47] crowsnest:		no_proxy: false
+[10/22/23 22:37:47] crowsnest:		
+[10/22/23 22:37:47] crowsnest:		[cam 1]
+[10/22/23 22:37:47] crowsnest:		mode: camera-streamer
+[10/22/23 22:37:47] crowsnest:		
+[10/22/23 22:37:47] crowsnest:		enable_rtsp: false
+[10/22/23 22:37:47] crowsnest:		rtsp_port: 8554
+[10/22/23 22:37:47] crowsnest:		port: 8080
+[10/22/23 22:37:47] crowsnest:		device: /dev/video0
+[10/22/23 22:37:47] crowsnest:		resolution: 640x480
+[10/22/23 22:37:47] crowsnest:		max_fps: 15
+[10/22/23 22:37:48] crowsnest: INFO: Detect available Devices
+[10/22/23 22:37:48] crowsnest: INFO: Found 1 total available Device(s)
+[10/22/23 22:37:48] crowsnest: INFO: Found 1 available v4l2 (UVC) camera(s)
+[10/22/23 22:37:48] crowsnest: /dev/v4l/by-id/usb-Generic_USB2.0_PC_CAMERA-video-index0 -> /dev/video2
+[10/22/23 22:37:48] crowsnest: Supported Formats:
+[10/22/23 22:37:48] crowsnest:		[0]: 'YUYV' (YUYV 4:2:2)
+[10/22/23 22:37:48] crowsnest:		Size: Discrete 640x480
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:37:48] crowsnest:		Size: Discrete 352x288
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:37:48] crowsnest:		Size: Discrete 320x240
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:37:48] crowsnest:		Size: Discrete 176x144
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:37:48] crowsnest:		Size: Discrete 160x120
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:37:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:37:48] crowsnest: Supported Controls:
+[10/22/23 22:37:48] crowsnest:		
+[10/22/23 22:37:48] crowsnest:		User Controls
+[10/22/23 22:37:48] crowsnest:		
+[10/22/23 22:37:48] crowsnest:		brightness 0x00980900 (int)    : min=0 max=255 step=1 default=128 value=128
+[10/22/23 22:37:48] crowsnest:		contrast 0x00980901 (int)    : min=0 max=255 step=1 default=130 value=130
+[10/22/23 22:37:48] crowsnest:		saturation 0x00980902 (int)    : min=0 max=255 step=1 default=64 value=64
+[10/22/23 22:37:48] crowsnest:		hue 0x00980903 (int)    : min=-127 max=127 step=1 default=0 value=0
+[10/22/23 22:37:48] crowsnest:		gamma 0x00980910 (int)    : min=1 max=8 step=1 default=4 value=4
+[10/22/23 22:37:48] crowsnest:		power_line_frequency 0x00980918 (menu)   : min=0 max=2 default=1 value=1 (50 Hz)
+[10/22/23 22:37:48] crowsnest:		0: Disabled
+[10/22/23 22:37:48] crowsnest:		1: 50 Hz
+[10/22/23 22:37:48] crowsnest:		2: 60 Hz
+[10/22/23 22:37:48] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=15 step=1 default=13 value=13
+[10/22/23 22:37:48] crowsnest:		backlight_compensation 0x0098091c (int)    : min=1 max=5 step=1 default=1 value=1
+[10/22/23 22:37:48] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:37:49] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:37:50] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:37:51] crowsnest:  ... Done!
+[10/22/23 22:37:51] crowsnest: WATCHDOG: Lost Device: '/dev/video0'
+[10/22/23 22:42:27] crowsnest: Shutdown or Killed by User!
+[10/22/23 22:42:27] crowsnest: Please come again :)
+[10/22/23 22:42:27] crowsnest: Goodbye...
+[10/22/23 22:42:40] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[10/22/23 22:42:40] crowsnest: Version: v4.0.4-6-g767c53a
+[10/22/23 22:42:40] crowsnest: Prepare Startup ...
+[10/22/23 22:42:40] crowsnest: INFO: Host information:
+[10/22/23 22:42:40] crowsnest: Host Info: Distribution: Raspbian GNU/Linux 12 (bookworm)
+[10/22/23 22:42:40] crowsnest: Host Info: Kernel: Linux 6.1.0-rpi4-rpi-v8 aarch64
+[10/22/23 22:42:40] crowsnest: Host Info: Model:  Raspberry Pi 4 Model B Rev 1.1
+[10/22/23 22:42:40] crowsnest: Host Info: Available CPU Cores: 4
+[10/22/23 22:42:40] crowsnest: Host Info: Available Memory: 3883212 kB
+[10/22/23 22:42:40] crowsnest: Host Info: Diskspace (avail. / total): 203G / 220G
+[10/22/23 22:42:40] crowsnest: INFO: Checking Dependencies
+[10/22/23 22:42:43] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[10/22/23 22:42:44] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[10/22/23 22:42:44] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[10/22/23 22:42:44] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[10/22/23 22:42:44] crowsnest: Dependency: 'camera-streamer' found in bin/camera-streamer/camera-streamer.
+[10/22/23 22:42:44] crowsnest: Version Control: ustreamer is up to date. (v5.44)
+[10/22/23 22:42:48] crowsnest: Version Control: camera-streamer new version available: (ef8f6a4) (0.2.7(72e026f)).
+[10/22/23 22:42:48] crowsnest: INFO: Print Configfile: '/home/christian/printer_data/config/crowsnest.conf'
+[10/22/23 22:42:48] crowsnest:		[crowsnest]
+[10/22/23 22:42:48] crowsnest:		log_path: /home/christian/printer_data/logs/crowsnest.log
+[10/22/23 22:42:48] crowsnest:		log_level: verbose
+[10/22/23 22:42:48] crowsnest:		delete_log: false
+[10/22/23 22:42:48] crowsnest:		no_proxy: false
+[10/22/23 22:42:48] crowsnest:		
+[10/22/23 22:42:48] crowsnest:		[cam 1]
+[10/22/23 22:42:48] crowsnest:		mode: camera-streamer
+[10/22/23 22:42:48] crowsnest:		
+[10/22/23 22:42:48] crowsnest:		enable_rtsp: false
+[10/22/23 22:42:48] crowsnest:		rtsp_port: 8554
+[10/22/23 22:42:48] crowsnest:		port: 8080
+[10/22/23 22:42:48] crowsnest:		device: /dev/video0
+[10/22/23 22:42:48] crowsnest:		resolution: 640x480
+[10/22/23 22:42:48] crowsnest:		max_fps: 15
+[10/22/23 22:42:48] crowsnest: INFO: Detect available Devices
+[10/22/23 22:42:48] crowsnest: INFO: Found 1 total available Device(s)
+[10/22/23 22:42:48] crowsnest: INFO: Found 1 available v4l2 (UVC) camera(s)
+[10/22/23 22:42:48] crowsnest: /dev/v4l/by-id/usb-Generic_USB2.0_PC_CAMERA-video-index0 -> /dev/video0
+[10/22/23 22:42:48] crowsnest: Supported Formats:
+[10/22/23 22:42:48] crowsnest:		[0]: 'YUYV' (YUYV 4:2:2)
+[10/22/23 22:42:48] crowsnest:		Size: Discrete 640x480
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:42:48] crowsnest:		Size: Discrete 352x288
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:42:48] crowsnest:		Size: Discrete 320x240
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:42:48] crowsnest:		Size: Discrete 176x144
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:42:48] crowsnest:		Size: Discrete 160x120
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.033s (30.000 fps)
+[10/22/23 22:42:48] crowsnest:		Interval: Discrete 0.067s (15.000 fps)
+[10/22/23 22:42:48] crowsnest: Supported Controls:
+[10/22/23 22:42:48] crowsnest:		
+[10/22/23 22:42:48] crowsnest:		User Controls
+[10/22/23 22:42:48] crowsnest:		
+[10/22/23 22:42:48] crowsnest:		brightness 0x00980900 (int)    : min=0 max=255 step=1 default=128 value=128
+[10/22/23 22:42:48] crowsnest:		contrast 0x00980901 (int)    : min=0 max=255 step=1 default=130 value=130
+[10/22/23 22:42:48] crowsnest:		saturation 0x00980902 (int)    : min=0 max=255 step=1 default=64 value=64
+[10/22/23 22:42:48] crowsnest:		hue 0x00980903 (int)    : min=-127 max=127 step=1 default=0 value=0
+[10/22/23 22:42:48] crowsnest:		gamma 0x00980910 (int)    : min=1 max=8 step=1 default=4 value=4
+[10/22/23 22:42:48] crowsnest:		power_line_frequency 0x00980918 (menu)   : min=0 max=2 default=1 value=1 (50 Hz)
+[10/22/23 22:42:48] crowsnest:		0: Disabled
+[10/22/23 22:42:48] crowsnest:		1: 50 Hz
+[10/22/23 22:42:48] crowsnest:		2: 60 Hz
+[10/22/23 22:42:48] crowsnest:		sharpness 0x0098091b (int)    : min=0 max=15 step=1 default=13 value=13
+[10/22/23 22:42:48] crowsnest:		backlight_compensation 0x0098091c (int)    : min=1 max=5 step=1 default=1 value=1
+[10/22/23 22:42:48] crowsnest: Try to start configured Cams / Services...
+[10/22/23 22:42:50] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue ...
+[10/22/23 22:42:51] crowsnest: Starting camera-streamer with Device /dev/video0 ...
+[10/22/23 22:42:52] crowsnest:  ... Done!
